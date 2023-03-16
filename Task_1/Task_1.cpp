@@ -28,4 +28,5 @@ int main()
 		cout << nums[i] << " ";
 	}
 	cout << "\n\n\n";
+
 }
